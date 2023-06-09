@@ -3,3 +3,12 @@ Herramientas de desarrollo
 1.- Node js
 2.- Express js
 3.- Docker
+
+// __dirname sirve para poder obtener una ruta completa hasta donnde 
+// inicia nuestro proyecto y asi ya no nos procupamos por por la configuracion de nuestras rutasa
+
+
+// Ver ejemplo de recursividad
+// Ve la diferencia entre npm index y nodemon index.ja
+
+
